@@ -7,3 +7,8 @@ Using python, I have developed a system that can send emails automatically. It i
 - Personalizes the subject and body of the email
 - consists of an SSL security model which provides safe and secure transactions of emails
 - Time-saving and effort reduction
+
+Input data should be table/flat-files containing two main columns:
+(1) First Name
+(2) Last Name
+Along, with it we need to privode the format like for eg: 'first_name'.'last_name'@company.com
